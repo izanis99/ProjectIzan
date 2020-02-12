@@ -1,0 +1,9 @@
+\\srv-soft-sg\Software\_Monlau\DAM\DAM2\M7-2019-2020\codigosClase\git\projectHub\bin\Debug\projectHub.exe.config
+\\srv-soft-sg\Software\_Monlau\DAM\DAM2\M7-2019-2020\codigosClase\git\projectHub\bin\Debug\projectHub.exe
+\\srv-soft-sg\Software\_Monlau\DAM\DAM2\M7-2019-2020\codigosClase\git\projectHub\bin\Debug\projectHub.pdb
+\\srv-soft-sg\Software\_Monlau\DAM\DAM2\M7-2019-2020\codigosClase\git\projectHub\obj\Debug\projectHub.csprojAssemblyReference.cache
+\\srv-soft-sg\Software\_Monlau\DAM\DAM2\M7-2019-2020\codigosClase\git\projectHub\obj\Debug\projectHub.Form1.resources
+\\srv-soft-sg\Software\_Monlau\DAM\DAM2\M7-2019-2020\codigosClase\git\projectHub\obj\Debug\projectHub.Properties.Resources.resources
+\\srv-soft-sg\Software\_Monlau\DAM\DAM2\M7-2019-2020\codigosClase\git\projectHub\obj\Debug\projectHub.csproj.GenerateResource.cache
+\\srv-soft-sg\Software\_Monlau\DAM\DAM2\M7-2019-2020\codigosClase\git\projectHub\obj\Debug\projectHub.exe
+\\srv-soft-sg\Software\_Monlau\DAM\DAM2\M7-2019-2020\codigosClase\git\projectHub\obj\Debug\projectHub.pdb
